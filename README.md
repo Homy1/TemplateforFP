@@ -2,6 +2,20 @@
 
 This README should be completed by the student
 
+# Packaging
+The main class is Main.java
+
+Packaging for classes:
+ - main.controller
+ - main.model
+ - main.ui
+Packaging for test:
+ - test.model
+
+# How to RUN using IntelliJIDEA
+
+1- First Clone the source code
+2- 
 
 ## Prepare the content
 
