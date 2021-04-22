@@ -30,13 +30,13 @@ Packaging for test:
 
 4- Under "Project Setting", select "Libraries"
 
-5- Click + button, chose Java, and navigate to your project folder, then Lib folder, chose "sqlite-jdbc-3.34.0.jar", and click on "open"
+5- Click + button, choose Java, and navigate to your project folder, then Lib folder, choose "sqlite-jdbc-3.34.0.jar", and click on "open"
 
 6- Click on Apply and then OK to close the window
 
 Now you are ready to Run the Application.
 
-Simply right click on Main.java and chose Run.
+Simply right click on Main.java and choose Run.
 Congratulations!
 
 Login info:
